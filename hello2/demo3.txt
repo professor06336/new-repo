@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello
+=======
+
+>>>>>>> parent of a041228 (Delete hello2/demo3.txt)
